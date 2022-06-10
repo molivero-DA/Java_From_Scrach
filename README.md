@@ -11,9 +11,10 @@
 -> Examples 
 ```
 
-We will keep working with more of OOP concept to 
+We will keep working with more of OOP concept.
 
 
 Trello: https://trello.com/b/s5SH8DNX/java-from-scrach
+
 Mentor: Maximiliano Olivera
 
