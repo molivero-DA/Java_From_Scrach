@@ -12,3 +12,8 @@
 ```
 
 We will keep working with more of OOP concept to 
+
+
+Trello: https://trello.com/b/s5SH8DNX/java-from-scrach
+Mentor: Maximiliano Olivera
+
